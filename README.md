@@ -1,4 +1,4 @@
-# SafeBrowse Junior
+# BrowseBuddy
 
 A child-friendly web browser with parental controls and  AI enhanbced safety features 
 
